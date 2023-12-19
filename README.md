@@ -1,7 +1,13 @@
 Para probar el juego deberá seguir los siguientes pasos:
-Descargar el ZIP
-Descompromirlo en alguna carpeta
-Abrir la carpeta descomprimida con el explorador de proyectos de Unity
-Una vez dentro, deberá dirigirse a Assets y buscar la carpeta "Scenes"
-En scenes haga doble click a la escena "SampleScene.unity" 
-Ya podrá probar el juego
+
+1. Descargar el ZIP.
+
+2. Descompromirlo en alguna carpeta.
+
+3. Abrir la carpeta descomprimida con el explorador de proyectos de Unity.
+
+4. Una vez dentro, deberá dirigirse a Assets y buscar la carpeta "Scenes".
+
+5. En scenes haga doble click a la escena "SampleScene.unity" .
+
+6. Ya podrá probar el juego
